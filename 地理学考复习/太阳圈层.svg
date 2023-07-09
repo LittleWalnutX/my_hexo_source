@@ -1,0 +1,705 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240mm"
+   height="160mm"
+   viewBox="0 0 240 160"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="太阳圈层.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.1893044"
+     inkscape:cx="393.92774"
+     inkscape:cy="189.18622"
+     inkscape:window-width="2160"
+     inkscape:window-height="1351"
+     inkscape:window-x="0"
+     inkscape:window-y="36"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient5595"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#f29191;stop-opacity:1;"
+         offset="0"
+         id="stop5593" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5589"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#cb2075;stop-opacity:1;"
+         offset="0"
+         id="stop5587" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5579"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5577" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5573"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5571" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5464"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5462" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5454"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5452" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5444"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5442" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3472"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3470" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3464"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3462" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3452"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3450" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3432"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3430" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3418"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3416" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3410"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3408" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3402"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3400" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3394"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3392" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3316"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3314" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3306"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3304" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3296"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3294" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3288"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3286" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3280"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3278" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3272"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3270" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3152"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3150" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3034"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop3032" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3034"
+       id="linearGradient3036"
+       x1="19.970718"
+       y1="58.254898"
+       x2="56.382843"
+       y2="58.254898"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(13.375557,18.655235)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3152"
+       id="linearGradient3212"
+       gradientUnits="userSpaceOnUse"
+       x1="35.152137"
+       y1="67.633913"
+       x2="51.424"
+       y2="67.633913"
+       gradientTransform="translate(2.9980369,1.9401608)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3272"
+       id="linearGradient3274"
+       x1="52.094719"
+       y1="78.261518"
+       x2="147.09345"
+       y2="78.261518"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3280"
+       id="linearGradient3282"
+       x1="66.09493"
+       y1="75.074242"
+       x2="67.369532"
+       y2="75.074242"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3288"
+       id="linearGradient3290"
+       x1="60.88101"
+       y1="76.165314"
+       x2="62.979891"
+       y2="76.165314"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3296"
+       id="linearGradient3298"
+       x1="63.675587"
+       y1="79.386452"
+       x2="65.354809"
+       y2="79.386452"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3306"
+       id="linearGradient3308"
+       x1="39.763716"
+       y1="95.155718"
+       x2="61.481582"
+       y2="95.155718"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3316"
+       id="linearGradient3322"
+       gradientUnits="userSpaceOnUse"
+       x1="58.562359"
+       y1="51.333708"
+       x2="80.566856"
+       y2="51.333708"
+       gradientTransform="translate(-9.0260187,20.551105)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3394"
+       id="linearGradient3396"
+       x1="89.473494"
+       y1="64.707737"
+       x2="98.555074"
+       y2="64.707737"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3402"
+       id="linearGradient3404"
+       x1="90.177717"
+       y1="71.922126"
+       x2="98.879264"
+       y2="71.922126"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3410"
+       id="linearGradient3412"
+       x1="92.841971"
+       y1="83.886802"
+       x2="99.524685"
+       y2="83.886802"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3418"
+       id="linearGradient3420"
+       x1="109.20071"
+       y1="78.221602"
+       x2="118.08177"
+       y2="78.221602"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3432"
+       id="linearGradient3442"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(1.8931249,3.1384094)"
+       x1="73.896567"
+       y1="73.968828"
+       x2="78.070635"
+       y2="73.968828" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3452"
+       id="linearGradient3458"
+       gradientUnits="userSpaceOnUse"
+       x1="105.49137"
+       y1="70.125395"
+       x2="110.65074"
+       y2="70.125395"
+       gradientTransform="translate(-0.5556509,6.3770072)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3464"
+       id="linearGradient3466"
+       x1="116.13529"
+       y1="65.580405"
+       x2="131.02879"
+       y2="65.580405"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3472"
+       id="linearGradient3474"
+       x1="115.35516"
+       y1="90.911716"
+       x2="128.98256"
+       y2="90.911716"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5444"
+       id="linearGradient5446"
+       x1="124.7279"
+       y1="72.714033"
+       x2="132.87898"
+       y2="72.714033"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5454"
+       id="linearGradient5456"
+       x1="129.16704"
+       y1="101.2798"
+       x2="141.83255"
+       y2="101.2798"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="linearGradient5466"
+       x1="162.39449"
+       y1="65.712052"
+       x2="242.83315"
+       y2="65.712052"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10.174738,-9.4433967)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="linearGradient5522"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-10.596361,12.282569)"
+       x1="162.39449"
+       y1="65.712052"
+       x2="242.83315"
+       y2="65.712052" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5464"
+       id="linearGradient5564"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-11.239544,32.932568)"
+       x1="162.39449"
+       y1="65.712052"
+       x2="242.83315"
+       y2="65.712052" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5573"
+       id="linearGradient5575"
+       x1="176.88575"
+       y1="112.77009"
+       x2="193.4222"
+       y2="112.77009"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5579"
+       id="linearGradient5581"
+       x1="176.84028"
+       y1="113.15043"
+       x2="190.27615"
+       y2="113.15043"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5589"
+       id="linearGradient5591"
+       x1="87.742538"
+       y1="15.306901"
+       x2="136.19439"
+       y2="15.306901"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5595"
+       id="linearGradient5597"
+       x1="87.609982"
+       y1="15.306901"
+       x2="136.32695"
+       y2="15.306901"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <g
+     inkscape:label="图层 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112"
+       id="path2966"
+       cx="47.180351"
+       cy="72.538147"
+       r="13.966632" />
+    <circle
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient3036);stroke-width:0.265112"
+       id="path3030"
+       cx="51.552338"
+       cy="76.910133"
+       r="18.206062" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient3212);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="37.863541"
+       y="71.569473"
+       id="text3148"><tspan
+         sodipodi:role="line"
+         id="tspan3146"
+         style="fill:url(#linearGradient3212);fill-opacity:1;stroke-width:0.265112"
+         x="37.863541"
+         y="71.569473">光</tspan><tspan
+         sodipodi:role="line"
+         style="fill:url(#linearGradient3212);fill-opacity:1;stroke-width:0.265112"
+         x="37.863541"
+         y="78.750496"
+         id="tspan3206">球</tspan><tspan
+         sodipodi:role="line"
+         style="fill:url(#linearGradient3212);fill-opacity:1;stroke-width:0.265112"
+         x="37.863541"
+         y="85.931519"
+         id="tspan3208">层</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112;stroke:url(#linearGradient3274)"
+       d="M 147.09345,29.381447 52.094719,78.1057 146.47921,127.14159"
+       id="path3268" />
+    <ellipse
+       style="fill:url(#linearGradient3282);fill-rule:evenodd;stroke-width:0.265112;fill-opacity:1"
+       id="path3276"
+       cx="66.732231"
+       cy="75.074242"
+       rx="0.63730121"
+       ry="0.73100966" />
+    <ellipse
+       style="fill:url(#linearGradient3290);fill-rule:evenodd;stroke-width:0.265112;fill-opacity:1"
+       id="path3284"
+       cx="61.93045"
+       cy="76.165314"
+       rx="1.0494407"
+       ry="0.9144631" />
+    <ellipse
+       style="fill:url(#linearGradient3298);fill-rule:evenodd;stroke-width:0.265112;fill-opacity:1"
+       id="path3292"
+       cx="64.515198"
+       cy="79.386452"
+       rx="0.83961111"
+       ry="0.87568116" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient3308);fill-rule:evenodd;stroke-width:0.265112;fill-opacity:1"
+       x="39.212502"
+       y="97.173164"
+       id="text3302"><tspan
+         sodipodi:role="line"
+         id="tspan3300"
+         style="stroke-width:0.265112;fill-opacity:1;fill:url(#linearGradient3308)"
+         x="39.212502"
+         y="97.173164">肉眼可见</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.58611px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient3322);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="49.293804"
+       y="73.913284"
+       id="text3312"><tspan
+         sodipodi:role="line"
+         id="tspan3310"
+         style="font-size:4.58611px;fill:url(#linearGradient3322);fill-opacity:1;stroke-width:0.265112"
+         x="49.293804"
+         y="73.913284">太阳黑子</tspan></text>
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112;stroke:url(#linearGradient3396)"
+       id="path3390"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="94.236847"
+       sodipodi:cy="64.951988"
+       sodipodi:r1="4.8284869"
+       sodipodi:r2="2.4142435"
+       sodipodi:arg1="0.79275664"
+       sodipodi:arg2="1.4210752"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 97.625887,68.391275 -3.028926,-1.052052 -2.583799,1.898732 0.06457,-3.205782 -2.604239,-1.870599 3.068833,-0.929229 0.974291,-3.054826 1.832072,2.631486 3.206384,-0.01739 -1.936551,2.555577 z"
+       inkscape:transform-center-x="0.22256412"
+       inkscape:transform-center-y="-0.24425214" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient3404);stroke-width:0.265112"
+       id="path3398"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="94.522629"
+       sodipodi:cy="72.353394"
+       sodipodi:r1="4.5747132"
+       sodipodi:r2="2.2873566"
+       sodipodi:arg1="0.94662441"
+       sodipodi:arg2="1.5749429"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 97.196208,76.065532 -2.683064,-1.424801 -2.694788,1.402501 0.525955,-2.992033 -2.166594,-2.129499 3.008122,-0.424376 1.355759,-2.718604 1.333167,2.729754 3.004499,0.449309 -2.184179,2.111457 z"
+       inkscape:transform-center-x="-0.0058607153"
+       inkscape:transform-center-y="-0.43126837"
+       transform="translate(0.63146896,3.9750101)" />
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient3412);stroke-width:0.265112"
+       id="path3406"
+       inkscape:flatsided="false"
+       sodipodi:sides="5"
+       sodipodi:cx="96.318085"
+       sodipodi:cy="84.094131"
+       sodipodi:r1="3.5402708"
+       sodipodi:r2="1.7701354"
+       sodipodi:arg1="0.81898646"
+       sodipodi:arg2="1.447305"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 98.735955,86.680136 -2.199829,-0.829349 -1.930315,1.341995 0.108974,-2.348445 -1.872814,-1.421139 2.267179,-0.622069 0.772852,-2.220308 1.29222,1.963985 2.350463,0.04891 -1.468544,1.835878 z"
+       inkscape:transform-center-x="0.13475808"
+       inkscape:transform-center-y="-0.20733094"
+       transform="translate(-0.85644582,3.1944204)" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112;stroke:url(#linearGradient3420)"
+       d="m 109.488,48.669045 c 0,0 19.5261,25.32054 -0.28729,59.105115"
+       id="path3414" />
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient3442);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="75.61055"
+       y="72.902878"
+       id="text3424"><tspan
+         sodipodi:role="line"
+         id="tspan3422"
+         style="font-size:5.64444px;fill:url(#linearGradient3442);fill-opacity:1;stroke-width:0.265112"
+         x="75.61055"
+         y="72.902878">色</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:url(#linearGradient3442);fill-opacity:1;stroke-width:0.265112"
+         x="75.61055"
+         y="80.0839"
+         id="tspan3428">球</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:5.64444px;fill:url(#linearGradient3442);fill-opacity:1;stroke-width:0.265112"
+         x="75.61055"
+         y="87.264923"
+         id="tspan3426">层</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.58611px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient3458);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="104.71523"
+       y="74.951385"
+       id="text3446"><tspan
+         sodipodi:role="line"
+         id="tspan3444"
+         style="font-size:4.58611px;fill:url(#linearGradient3458);fill-opacity:1;stroke-width:0.265112"
+         x="104.71523"
+         y="74.951385">耀</tspan><tspan
+         sodipodi:role="line"
+         style="font-size:4.58611px;fill:url(#linearGradient3458);fill-opacity:1;stroke-width:0.265112"
+         x="104.71523"
+         y="80.785973"
+         id="tspan3448">斑</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112;stroke:url(#linearGradient3466)"
+       d="m 116.13529,63.036994 c 0,0 32.68451,-2.36371 1.21581,5.424083"
+       id="path3460" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke-width:0.265112;stroke:url(#linearGradient3474)"
+       d="m 117.14872,87.119782 c 0,0 27.78434,9.947304 -1.79356,7.057244"
+       id="path3468" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.5861px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient5446);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="123.93967"
+       y="74.290504"
+       id="text3478"><tspan
+         sodipodi:role="line"
+         id="tspan3476"
+         style="direction:ltr;fill:url(#linearGradient5446);fill-opacity:1;stroke-width:0.265112"
+         x="123.93967"
+         y="74.290504">    日珥</tspan><tspan
+         sodipodi:role="line"
+         style="direction:ltr;fill:url(#linearGradient5446);fill-opacity:1;stroke-width:0.265112"
+         x="123.93967"
+         y="80.125076"
+         id="tspan5458">（色球层）</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:5.64444px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:url(#linearGradient5456);fill-opacity:1;fill-rule:evenodd;stroke-width:0.265112"
+       x="128.3788"
+       y="102.84731"
+       id="text5450"><tspan
+         sodipodi:role="line"
+         id="tspan5448"
+         style="font-size:5.64444px;fill:url(#linearGradient5456);fill-opacity:1;stroke-width:0.265112"
+         x="128.3788"
+         y="102.84731">日冕层</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5466);stroke-width:0.265112"
+       d="m 152.21975,56.788912 c 0,0 13.38666,-7.430069 30.50994,-4.20746 17.12328,3.222609 3.72177,13.761453 1.49645,7.070627 -2.22531,-6.690825 15.08541,-9.304705 21.70122,-8.909439 6.61582,0.395269 19.22089,0.455769 26.73105,2.155923"
+       id="path5460" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5522);stroke-width:0.265112"
+       d="m 151.79813,78.514878 c 0,0 13.38666,-7.430069 30.50994,-4.20746 17.12328,3.222608 3.72177,13.761453 1.49645,7.070627 -2.22531,-6.690825 15.08541,-9.304705 21.70122,-8.909439 6.61582,0.395269 19.22089,0.455769 26.73105,2.155923"
+       id="path5460-6" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient5564);stroke-width:0.265112"
+       d="m 151.15494,99.164877 c 0,0 13.38666,-7.430069 30.50994,-4.20746 17.12328,3.222609 3.72177,13.761453 1.49645,7.070623 -2.22531,-6.690821 15.08541,-9.304701 21.70122,-8.909435 6.61582,0.395269 19.22089,0.455769 26.73105,2.155923"
+       id="path5460-5" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.58611px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';direction:ltr;fill:url(#linearGradient5581);fill-rule:evenodd;stroke:url(#linearGradient5575);stroke-width:0.265112;fill-opacity:1"
+       x="176.64322"
+       y="114.79856"
+       id="text5569"><tspan
+         sodipodi:role="line"
+         id="tspan5567"
+         style="font-size:4.58611px;stroke:none;stroke-width:0.265112;fill-opacity:1;fill:url(#linearGradient5581)"
+         x="176.64322"
+         y="114.79856">太阳风</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';direction:ltr;fill:url(#linearGradient5597);fill-rule:evenodd;stroke:url(#linearGradient5591);stroke-width:0.265112;fill-opacity:1"
+       x="87.439369"
+       y="17.814932"
+       id="text5585"><tspan
+         sodipodi:role="line"
+         id="tspan5583"
+         style="font-size:7.05556px;stroke-width:0.265112;stroke:url(#linearGradient5591);fill-opacity:1;fill:url(#linearGradient5597)"
+         x="87.439369"
+         y="17.814932">太阳圈层模型图</tspan></text>
+  </g>
+</svg>

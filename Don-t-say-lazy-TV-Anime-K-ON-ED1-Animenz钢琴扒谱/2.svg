@@ -79,7 +79,7 @@
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M1049.29,2205.34 C1142.81,2124.52 1605.02,2084.84 1709.58,2148.64 C1605.55,2091.87 1143.35,2131.56 1049.29,2205.34"/>
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M339.816,967.423 C448.754,896.253 957.132,896.253 1066.07,967.423 C957.132,903.309 448.754,903.309 339.816,967.423"/>
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M1901.05,409.321 C1993.96,299.903 2578.84,262.084 2685,343.801 C2579.07,269.137 1994.19,306.955 1901.05,409.321"/>
-<path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M2765.63,408.817 C2764.71,393.042 2776.93,384.273 2789.57,394.201 C2778.77,387.284 2766.55,396.053 2765.63,408.817"/>
+<path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M2765.63,383.617 C2764.71,367.842 2776.93,359.073 2789.57,369.001 C2778.77,362.084 2766.55,370.853 2765.63,383.617"/>
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M2163.51,1096.7 C2175.11,1109.57 2201.8,1109.53 2204.68,1095.44 C2203.87,1116.27 2177.18,1116.31 2163.51,1096.7"/>
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M703.401,1720.32 C779.963,1775.56 1151.81,1761.67 1226.6,1703.44 C1152.04,1768.72 780.191,1782.61 703.401,1720.32"/>
 <path class="SlurSegment" stroke="#000000" stroke-width="1.76" stroke-linecap="round" stroke-linejoin="round" fill-rule="evenodd" d="M2440.63,1703.44 C2510.42,1746.79 2719.78,1746.79 2789.57,1703.44 C2719.78,1753.85 2510.42,1753.85 2440.63,1703.44"/>
@@ -97,7 +97,7 @@
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="1557.82,348.211 1557.82,614.197"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="1151.54,1595.45 1151.54,1861.44"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="2798.14,2868.4 2798.14,3134.38"/>
-<polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="739.742,348.211 739.742,614.197"/>
+<polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="739.742,349.597 739.742,614.197"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="175.465,348.211 175.465,614.197"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="1461.93,1595.45 1461.93,1861.44"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="736.513,2868.4 736.513,3134.38"/>
@@ -164,7 +164,7 @@
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="2335.71,1236.43 2335.71,1340"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="2145.81,3133 2145.81,3236.57"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="2487.53,3133 2487.53,3236.57"/>
-<polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="739.742,612.811 739.742,716.383"/>
+<polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="739.742,614.197 739.742,716.383"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="175.465,2509.37 175.465,2612.95"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="1858.84,1236.43 1858.84,1340"/>
 <polyline class="BarLine" stroke="#000000" stroke-width="4.54" stroke-linejoin="bevel" points="175.465,1236.43 175.465,1340"/>

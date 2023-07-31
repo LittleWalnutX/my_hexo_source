@@ -22,6 +22,8 @@ linux的firefox默认是不支持触控板的平和滚动的，所以滚动起�
 
 引自网页：
 
+[使linux版firefox支持触屏操作](https://beekc.top/2019/04/01/firefox-touchscreen/#:~:text=%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%98%AF%E5%9C%A8about%3Aconfig%E4%B8%AD%E6%89%BE%E5%88%B0dom.w3c_touch_events.enabled%E9%A1%B9%E6%94%B9%E4%B8%BA1%EF%BC%88%E5%90%AF%E7%94%A8%EF%BC%89%EF%BC%8C%E9%BB%98%E8%AE%A4%E4%B8%BA2%EF%BC%88%E8%87%AA%E5%8A%A8%EF%BC%89%E3%80%82%20%E7%AC%AC%E4%BA%8C%E4%B8%AA%E5%9C%B0%E6%96%B9%E6%98%AF%E4%BF%AE%E6%94%B9%E6%96%87%E4%BB%B6%2Fetc%2Fsecurity%2Fpam_env.conf%EF%BC%8C%E5%9C%A8%E6%96%87%E4%BB%B6%E6%9C%80%E5%90%8E%E6%B7%BB%E5%8A%A0%E4%B8%8B%E9%9D%A2%E4%BB%A3%E7%A0%81,MOZ_USE_XINPUT2%20DEFAULT%3D1%20%E4%BF%AE%E6%94%B9%E5%AE%8C%E6%88%90%E5%90%8E%E9%87%8D%E5%90%AFFirefox%E5%B0%B1%E5%8F%AF%E4%BB%A5%E4%BD%BF%E7%94%A8%E8%A7%A6%E6%91%B8%E5%B1%8F%E8%BF%9B%E8%A1%8C%E6%93%8D%E4%BD%9C%E4%BA%86%E3%80%82)
+
 > 一共有两个地方需要修改：
 > 
 > 第一个是在about:config中找到dom.w3c_touch_events.enabled项改为1（启用），默认为2（自动）。
